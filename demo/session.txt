@@ -1,0 +1,23 @@
+1. Create an hourly project digest
+{
+  "id": "128701c9-dbe0-4190-a0af-70cac8c513ff",
+  "title": "Project digest",
+  "enabled": true,
+  "next_run_at": "2026-10-21T10:00:00Z"
+}
+
+2. Tick the scheduler at 12:05 UTC
+{
+  "count": 3,
+  "occurrences": [
+    "2026-10-21T10:00:00Z",
+    "2026-10-21T11:00:00Z",
+    "2026-10-21T12:00:00Z"
+  ]
+}
+
+3. Tick again at the same time
+{
+  "count": 0,
+  "stored_runs": 3
+}
