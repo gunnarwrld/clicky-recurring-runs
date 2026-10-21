@@ -63,17 +63,6 @@ pytest
 
 The tests cover catch-up, repeated and concurrent ticks, pause/resume behavior, timezone validation, and missing schedules.
 
-## Publish it to GitHub
-
-These two commands create a local commit, then create a public repo under Gunnar's account and push it:
-
-```bash
-git init -b main && git add -A && git commit -m "Build Clicky recurring run API"
-gh repo create gunnarwrld/clicky-recurring-runs --public --source=. --remote=origin --push
-```
-
-The project remains local until those commands are run.
-
 ## Product references
 
 - [HeyClicky careers](https://www.heyclicky.com/careers) — current roles and the team's emphasis on shipping quickly with attention to detail.
