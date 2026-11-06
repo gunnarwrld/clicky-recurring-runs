@@ -69,3 +69,7 @@ The tests cover catch-up, repeated and concurrent ticks, pause/resume behavior, 
 - [HeyClicky Trust](https://www.heyclicky.com/trust) — product control and privacy notes.
 - [HeyClicky changelog](https://www.heyclicky.com/changelog) — public product changes, including routines and background agents.
 - [Nilesh Rathore](https://nilesh.so/) — product engineer at HeyClicky; describes the goal as a simple voice interface for AI agents.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
